@@ -13,8 +13,8 @@ Here are a few things I've built:
 - ✨ [Asteroids](https://github.com/victoriaskapin/asteroids) – Asteroids Ateri game coded in C using SDL2 graphic library
 - ✨ [Moonlander](https://github.com/victoriaskapin/Moonlander) – Moonlander Ateri game coded in C using SDL2 graphic library
 - ✨ [META Frontend Capstone](https://github.com/victoriaskapin/meta_front_end_capstone) - Webpage for a family restaurant
-- 🌐 [Portfolio Website](link)
+
 
 ## 📫 Get in Touch
 - Email: vfernandezs@fi.uba.ar
-- LinkedIn: [(https://www.linkedin.com/in/victoria-fernandez-skapin-12baa8191/)](#)
+- LinkedIn: [https://www.linkedin.com/in/victoria-fernandez-skapin-12baa8191/](#)
