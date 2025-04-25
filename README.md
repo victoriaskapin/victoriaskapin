@@ -2,11 +2,14 @@
 
 I'm a Data Scientist and Web Developer passionate about solving problems with code and data.  
 Currently working at **Accenture** building scalable AI and cloud-based solutions.
+Studying electronic engineering at University of Buenos Aires.
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, TypeScript, C
 - **Frameworks**: React, Angular, PyTorch, Spark
 - **Cloud**: Azure, GCP, AWS
+- **Microcontrollers**: Arduino, STM32
+- **Other tools**: LtSpice, KiCad
 
 ## 📂 Projects
 Here are a few things I've built:
