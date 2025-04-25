@@ -1,7 +1,7 @@
 # Hi, I'm Victoria 👋
 
 I'm a Data Scientist and Web Developer passionate about solving problems with code and data.  
-Currently working at **Accenture** building scalable AI and cloud-based solutions.
+Currently working at **Accenture** building scalable AI and cloud-based solutions. 
 Studying electronic engineering at University of Buenos Aires.
 
 ## 🛠️ Tech Stack
